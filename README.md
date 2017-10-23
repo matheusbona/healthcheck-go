@@ -5,7 +5,7 @@ Pingdom-like monitoring solution
 
 O healthcheck-go utiliza variáveis de ambiente como parâmetros 
 
-URL_MONITORAMENTO = URL a qual você deseja monitorar (Default: http://www.google.com.br)
+URL_MONITORAMENTO = URL a qual você deseja monitorar (Default: http://www.ecloudc.com.br)
 
 TIMEOUT_MONITORAMENTO = Tempo de timeout para a chamada GET (em segundos - Default: 5 segundos)
 

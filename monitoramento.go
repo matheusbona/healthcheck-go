@@ -14,7 +14,7 @@ import (
 )
 
 // Variáveis configuráveis
-var url string = "http://www.google.com.br"
+var url string = "http://www.ecloudc.com.br"
 var threshould int = 5
 var intervaloConsulta time.Duration = 60 * time.Second
 var timeout time.Duration = 5 * time.Second
